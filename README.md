@@ -8,6 +8,7 @@ CryptoLily is a sarcastic, rule-based crypto advisor chatbot;inspired by Lily fr
 - Python-based with no external libraries needed.
 
 **How to Use**
+
 Run 'cryptolily.py' in any Python IDE or Google Colab. Type your crypto questions, and prepare for sarcasm.
 
 **Example Questions**
