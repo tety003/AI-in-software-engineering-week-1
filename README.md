@@ -1,5 +1,6 @@
 **CRYPTOLILY**
-CryptoLily is a sarcastic, rule-based crypto advisor chatbot — inspired by Lily from Duolingo.
+
+CryptoLily is a sarcastic, rule-based crypto advisor chatbot;inspired by Lily from Duolingo.
 
 **Features**
 - Recommends cryptocurrencies based on sustainability and profitability.
